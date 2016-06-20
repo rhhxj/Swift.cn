@@ -8,5 +8,13 @@
 
 import Foundation
 
-println("Hello, World!")
+var i = 0
+
+while 101 > i {
+    
+    println(i)
+    
+    i++
+    
+}
 
